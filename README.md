@@ -1,2 +1,3 @@
 # CodeClause_Customer_Segmentation
-Project in Unsupervised ML 
+Customer Segmentation system
+Project in Unsupervised ML Using K-Means 
